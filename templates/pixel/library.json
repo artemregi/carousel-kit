@@ -1,0 +1,638 @@
+{
+ "empty-wallet": {
+  "ru": "руки держат пустой кошелёк — нет денег, потерянная выручка",
+  "en": "two hands in grey sleeves holding an open empty brown leather wallet, one hand reaching inside it"
+ },
+ "phone-99": {
+  "ru": "телефон с красным значком 99+ — завал сообщений в директе",
+  "en": "a smartphone with a chat app on screen and a big red notification badge with many unread messages, slightly tilted"
+ },
+ "alarm-clock": {
+  "ru": "звенящий будильник — опоздал, поздно ответил",
+  "en": "a red ringing alarm clock with motion lines"
+ },
+ "stopwatch": {
+  "ru": "секундомер — скорость ответа, быстро",
+  "en": "a silver stopwatch"
+ },
+ "hourglass": {
+  "ru": "песочные часы — время утекает, ожидание",
+  "en": "an hourglass with sand running down"
+ },
+ "robot-laptop": {
+  "ru": "дружелюбный робот за ноутбуком — ИИ-помощник работает",
+  "en": "a cute friendly small robot typing on a laptop"
+ },
+ "tired-laptop": {
+  "ru": "уставший человек за ноутбуком держится за голову — выгорание, рутина",
+  "en": "a tired young person at a laptop holding their head in their hands"
+ },
+ "sleeping": {
+  "ru": "человек спит, а рядом телефон сам отвечает — машина работает за тебя",
+  "en": "a person sleeping peacefully in bed while a smartphone on the nightstand glows with incoming messages"
+ },
+ "fire-inbox": {
+  "ru": "горящая стопка писем — пожар во входящих",
+  "en": "a pile of envelopes and letters on fire"
+ },
+ "chat-bubbles": {
+  "ru": "стопка облачков сообщений — переписка, одни и те же вопросы",
+  "en": "a stack of colorful speech bubbles"
+ },
+ "ghost": {
+  "ru": "призрак — клиент пропал и не отвечает",
+  "en": "a cute white ghost floating"
+ },
+ "money-bag": {
+  "ru": "мешок денег — выручка, продажи",
+  "en": "a burlap money bag with a dollar sign and coins"
+ },
+ "coins-stack": {
+  "ru": "стопки монет — деньги, заработок",
+  "en": "stacks of gold coins"
+ },
+ "funnel": {
+  "ru": "воронка, в которую сыплются человечки — воронка продаж",
+  "en": "a funnel with tiny people falling into it and coins coming out of the bottom"
+ },
+ "magnet": {
+  "ru": "магнит притягивает сердечки — привлечение подписчиков",
+  "en": "a red horseshoe magnet attracting small hearts"
+ },
+ "target": {
+  "ru": "мишень со стрелой в центре — попал в цель, точный оффер",
+  "en": "a red and white target with an arrow in the bullseye"
+ },
+ "rocket": {
+  "ru": "взлетающая ракета — рост, запуск",
+  "en": "a rocket launching with flame"
+ },
+ "chart-up": {
+  "ru": "растущий столбчатый график со стрелкой — рост",
+  "en": "a bar chart with a green arrow going up"
+ },
+ "chart-down": {
+  "ru": "падающий график — просадка",
+  "en": "a bar chart with a red arrow going down"
+ },
+ "megaphone": {
+  "ru": "рупор — объявление, запуск, прогрев",
+  "en": "a megaphone"
+ },
+ "gift": {
+  "ru": "подарок — гайд, лид-магнит, бонус",
+  "en": "a gift box with a red ribbon bow"
+ },
+ "key": {
+  "ru": "ключ — кодовое слово, доступ",
+  "en": "a golden key"
+ },
+ "gears": {
+  "ru": "шестерёнки — автоматизация, система",
+  "en": "three interlocking metal gears"
+ },
+ "checklist": {
+  "ru": "список с галочками — план, чек-лист",
+  "en": "a clipboard with a checklist with green check marks"
+ },
+ "calendar": {
+  "ru": "календарь — дата запуска, расписание",
+  "en": "a desk calendar page with a red circle around one day"
+ },
+ "handshake": {
+  "ru": "рукопожатие — сделка, клиент купил",
+  "en": "two hands shaking"
+ },
+ "question": {
+  "ru": "человек с вопросительными знаками — непонятно, сомнения",
+  "en": "a confused person with question marks above the head"
+ },
+ "trophy": {
+  "ru": "кубок — результат, победа",
+  "en": "a golden trophy cup"
+ },
+ "brain": {
+  "ru": "мозг — экспертиза, знания",
+  "en": "a pink brain"
+ },
+ "coffee-laptop": {
+  "ru": "ноутбук и кофе — рабочий день блогера",
+  "en": "an open laptop next to a cup of coffee"
+ },
+ "inbox-flood": {
+  "ru": "гора писем вываливается из ящика — завал заявок",
+  "en": "an overflowing mailbox with a huge pile of letters spilling out"
+ },
+ "typing-dots": {
+  "ru": "облачко «печатает…» с тремя точками — ждёшь ответа",
+  "en": "a chat bubble with three typing dots"
+ },
+ "read-no-reply": {
+  "ru": "сообщение с двумя галочками и паутиной — прочитано, без ответа",
+  "en": "a chat bubble with two check marks covered in cobwebs"
+ },
+ "notification-bell": {
+  "ru": "колокольчик с красной точкой — уведомления",
+  "en": "a golden notification bell with a red dot badge"
+ },
+ "phone-ringing": {
+  "ru": "звонящий телефон с волнами — входящий звонок",
+  "en": "a vibrating smartphone with ringing motion lines"
+ },
+ "envelope-open": {
+  "ru": "открытый конверт с письмом — новая заявка",
+  "en": "an open envelope with a letter coming out"
+ },
+ "paper-plane": {
+  "ru": "бумажный самолётик — отправил сообщение",
+  "en": "a white paper airplane flying with a dotted trail"
+ },
+ "queue-people": {
+  "ru": "очередь человечков — люди ждут ответа",
+  "en": "a line of small people waiting in a queue"
+ },
+ "lost-lead": {
+  "ru": "человечек уходит, машет рукой — клиент ушёл",
+  "en": "a small person walking away waving goodbye"
+ },
+ "hot-lead": {
+  "ru": "горячий перец — горячий клиент, готов купить",
+  "en": "a red hot chili pepper with small flames"
+ },
+ "cold-lead": {
+  "ru": "кубик льда — холодный клиент",
+  "en": "an ice cube with frost"
+ },
+ "thermometer": {
+  "ru": "градусник — прогрев аудитории",
+  "en": "a thermometer with red rising temperature"
+ },
+ "fishing-rod": {
+  "ru": "удочка с пойманной рыбой — поймал клиента",
+  "en": "a fishing rod with a fish hooked on the line"
+ },
+ "empty-hook": {
+  "ru": "пустой крючок — никто не клюнул",
+  "en": "a fishing hook with nothing on it"
+ },
+ "copy-paste": {
+  "ru": "две одинаковые бумажки — шаблонный ответ, копипаст",
+  "en": "two identical sheets of paper with a copy icon"
+ },
+ "faq-cards": {
+  "ru": "стопка карточек с вопросительными знаками — частые вопросы",
+  "en": "a stack of index cards with question marks"
+ },
+ "keyword-bubble": {
+  "ru": "облачко со звёздочками вместо слова — кодовое слово",
+  "en": "a speech bubble with a glowing star symbol inside"
+ },
+ "link-chain": {
+  "ru": "звенья цепи — ссылка",
+  "en": "two connected chain links"
+ },
+ "qr-code": {
+  "ru": "QR-код — быстрый переход",
+  "en": "a QR code on a small card"
+ },
+ "form-sheet": {
+  "ru": "анкета с полями — заявка, форма",
+  "en": "a paper form with input lines and a pen"
+ },
+ "robot-wave": {
+  "ru": "робот машет рукой — ИИ-ассистент здоровается",
+  "en": "a friendly robot waving hello"
+ },
+ "robot-headset": {
+  "ru": "робот в гарнитуре — ИИ отвечает клиентам",
+  "en": "a robot wearing a call center headset"
+ },
+ "robot-sleeping-human": {
+  "ru": "робот работает, человек отдыхает в гамаке — делегировал ИИ",
+  "en": "a robot working at a desk while a person relaxes in a hammock"
+ },
+ "robot-arm": {
+  "ru": "роботизированная рука ставит галочку — автоматизация задач",
+  "en": "a robotic arm placing a big green check mark"
+ },
+ "conveyor": {
+  "ru": "конвейер с коробками — поток, система на потоке",
+  "en": "a conveyor belt with boxes moving"
+ },
+ "plug-socket": {
+  "ru": "вилка и розетка — подключить, интеграция",
+  "en": "an electric plug about to connect into a socket"
+ },
+ "magic-wand": {
+  "ru": "волшебная палочка с искрами — магия ИИ",
+  "en": "a magic wand with sparkles"
+ },
+ "lightbulb": {
+  "ru": "лампочка — идея",
+  "en": "a glowing yellow light bulb"
+ },
+ "ai-chip": {
+  "ru": "микросхема — нейросеть, технологии",
+  "en": "a computer chip with circuit lines"
+ },
+ "cursor-click": {
+  "ru": "курсор кликает по кнопке — нажать один раз",
+  "en": "a mouse pointer clicking a big button"
+ },
+ "switch-on": {
+  "ru": "тумблер «вкл» — включил и работает",
+  "en": "a toggle switch turned on"
+ },
+ "battery-full": {
+  "ru": "полная батарейка — много энергии",
+  "en": "a fully charged green battery"
+ },
+ "battery-low": {
+  "ru": "пустая батарейка — нет сил",
+  "en": "an almost empty red battery"
+ },
+ "autopilot": {
+  "ru": "штурвал самолёта — автопилот",
+  "en": "an airplane control yoke"
+ },
+ "domino": {
+  "ru": "падающее домино — цепочка действий",
+  "en": "a row of falling dominoes"
+ },
+ "puzzle": {
+  "ru": "два кусочка пазла соединяются — всё сходится",
+  "en": "two puzzle pieces fitting together"
+ },
+ "tools": {
+  "ru": "гаечный ключ и отвёртка — настройка",
+  "en": "a crossed wrench and screwdriver"
+ },
+ "terminal": {
+  "ru": "окно терминала с кодом — техническая часть",
+  "en": "a computer terminal window with green code"
+ },
+ "laptop-chart": {
+  "ru": "ноутбук с графиком — аналитика",
+  "en": "a laptop showing a chart on screen"
+ },
+ "database": {
+  "ru": "стопка дисков базы данных — данные, CRM",
+  "en": "a database cylinder stack"
+ },
+ "cash-register": {
+  "ru": "кассовый аппарат — продажи, касса",
+  "en": "a vintage cash register"
+ },
+ "credit-card": {
+  "ru": "банковская карта — оплата",
+  "en": "a credit card"
+ },
+ "price-tag": {
+  "ru": "ценник — цена, стоимость",
+  "en": "a price tag with a string"
+ },
+ "money-fly": {
+  "ru": "купюры с крылышками улетают — деньги утекают",
+  "en": "dollar bills with wings flying away"
+ },
+ "piggy-bank": {
+  "ru": "копилка — накопления",
+  "en": "a pink piggy bank with a coin going in"
+ },
+ "empty-pockets": {
+  "ru": "вывернутые пустые карманы — денег нет",
+  "en": "turned out empty trouser pockets"
+ },
+ "coin-leak": {
+  "ru": "дырявое ведро, монеты высыпаются — потерянные деньги",
+  "en": "a leaking bucket with coins falling out of a hole"
+ },
+ "receipt": {
+  "ru": "длинный чек — расходы",
+  "en": "a long paper receipt"
+ },
+ "scales": {
+  "ru": "весы — сравнение, баланс",
+  "en": "a balance scale"
+ },
+ "diamond": {
+  "ru": "бриллиант — ценность, премиум",
+  "en": "a sparkling blue diamond"
+ },
+ "gold-bars": {
+  "ru": "слитки золота — дорогой продукт",
+  "en": "a stack of gold bars"
+ },
+ "wallet-full": {
+  "ru": "кошелёк, полный денег — заработал",
+  "en": "a fat wallet stuffed with money"
+ },
+ "invoice": {
+  "ru": "счёт с печатью «оплачено» — сделка закрыта",
+  "en": "an invoice paper with a red paid stamp"
+ },
+ "discount": {
+  "ru": "бирка со знаком процента — скидка",
+  "en": "a red tag with a percent sign"
+ },
+ "shopping-cart": {
+  "ru": "тележка с покупками — купили",
+  "en": "a shopping cart with boxes"
+ },
+ "abandoned-cart": {
+  "ru": "пустая брошенная тележка — не купили",
+  "en": "an empty abandoned shopping cart tipped over"
+ },
+ "sale-sign": {
+  "ru": "табличка «продано» — продано",
+  "en": "a sold sign on a wooden post"
+ },
+ "vault": {
+  "ru": "сейф — надёжно, сохранить",
+  "en": "a heavy steel safe"
+ },
+ "rocket-crash": {
+  "ru": "ракета упала и дымится — провальный запуск",
+  "en": "a crashed rocket smoking on the ground"
+ },
+ "launch-button": {
+  "ru": "большая красная кнопка «пуск» — запуск",
+  "en": "a big red launch button"
+ },
+ "countdown": {
+  "ru": "табло обратного отсчёта — до старта",
+  "en": "a countdown timer display"
+ },
+ "ticket": {
+  "ru": "билет — вход на вебинар",
+  "en": "a golden ticket"
+ },
+ "webinar-screen": {
+  "ru": "экран с человеком и кнопкой play — вебинар",
+  "en": "a screen showing a presenter with a play button"
+ },
+ "microphone": {
+  "ru": "микрофон — эфир, выступление",
+  "en": "a vintage microphone"
+ },
+ "stage-spotlight": {
+  "ru": "сцена с прожектором — выход на аудиторию",
+  "en": "an empty stage lit by a spotlight"
+ },
+ "ladder": {
+  "ru": "лестница вверх — ступени воронки",
+  "en": "a wooden ladder going up"
+ },
+ "stairs-up": {
+  "ru": "ступеньки со стрелкой вверх — рост по шагам",
+  "en": "stairs with an arrow going up"
+ },
+ "map-route": {
+  "ru": "карта с пунктирным маршрутом — путь клиента",
+  "en": "a treasure map with a dotted route"
+ },
+ "signpost": {
+  "ru": "указатель в разные стороны — выбор пути",
+  "en": "a wooden signpost with arrows"
+ },
+ "bridge": {
+  "ru": "мост — переход от подписчика к клиенту",
+  "en": "a small wooden bridge"
+ },
+ "door-open": {
+  "ru": "открытая дверь со светом — вход, возможность",
+  "en": "an open door with light coming out"
+ },
+ "red-carpet": {
+  "ru": "красная дорожка — особый подход",
+  "en": "a red carpet with golden poles"
+ },
+ "filter": {
+  "ru": "сито отсеивает — фильтр, квалификация",
+  "en": "a sieve filtering stones"
+ },
+ "pipeline": {
+  "ru": "трубы с вентилем — поток заявок",
+  "en": "pipes with a valve"
+ },
+ "hourglass-sale": {
+  "ru": "песочные часы с ценником — ограниченное предложение",
+  "en": "an hourglass next to a price tag"
+ },
+ "camera": {
+  "ru": "камера — съёмка контента",
+  "en": "a video camera"
+ },
+ "ring-light": {
+  "ru": "кольцевая лампа с телефоном — съёмка рилса",
+  "en": "a ring light with a smartphone in the middle"
+ },
+ "clapperboard": {
+  "ru": "хлопушка — съёмка, дубль",
+  "en": "a movie clapperboard"
+ },
+ "heart-like": {
+  "ru": "сердечко-лайк — лайки",
+  "en": "a big red heart like icon"
+ },
+ "comment-bubble": {
+  "ru": "облачко комментария — комментарии",
+  "en": "a white comment speech bubble"
+ },
+ "views-eye": {
+  "ru": "глаз — просмотры",
+  "en": "a big cartoon eye"
+ },
+ "viral-fire": {
+  "ru": "огонь — залетел, вирусный",
+  "en": "a big bright fire flame"
+ },
+ "trend-wave": {
+  "ru": "сёрфер на волне — поймать тренд",
+  "en": "a surfer riding a big wave"
+ },
+ "followers-crowd": {
+  "ru": "толпа человечков — подписчики, аудитория",
+  "en": "a crowd of tiny people"
+ },
+ "one-follower": {
+  "ru": "один человечек на пустом поле — мало подписчиков",
+  "en": "one tiny person alone on an empty field"
+ },
+ "pen-paper": {
+  "ru": "ручка и лист — написать текст",
+  "en": "a fountain pen on a sheet of paper"
+ },
+ "calendar-content": {
+  "ru": "календарь с цветными метками — контент-план",
+  "en": "a calendar with colorful sticky notes"
+ },
+ "bookmark": {
+  "ru": "закладка — сохрани",
+  "en": "a red bookmark ribbon"
+ },
+ "repost-arrows": {
+  "ru": "две стрелки по кругу — репост",
+  "en": "two circular arrows"
+ },
+ "algorithm-box": {
+  "ru": "чёрный ящик с вопросом — алгоритм соцсети",
+  "en": "a black box with a question mark"
+ },
+ "crown-expert": {
+  "ru": "корона — эксперт, лидер ниши",
+  "en": "a golden crown"
+ },
+ "graduation-cap": {
+  "ru": "шапочка выпускника — обучение, курс",
+  "en": "a graduation cap"
+ },
+ "book-stack": {
+  "ru": "стопка книг — знания, экспертиза",
+  "en": "a stack of books"
+ },
+ "medal": {
+  "ru": "медаль — результат ученика",
+  "en": "a gold medal with a ribbon"
+ },
+ "star-rating": {
+  "ru": "пять звёзд — отзывы",
+  "en": "five golden stars in a row"
+ },
+ "review-card": {
+  "ru": "карточка отзыва со звёздами — отзыв",
+  "en": "a review card with stars and lines"
+ },
+ "clock-midnight": {
+  "ru": "часы показывают полночь — работаешь ночью",
+  "en": "a clock showing midnight with a moon"
+ },
+ "calendar-burn": {
+  "ru": "горящий календарь — дедлайн",
+  "en": "a calendar page on fire"
+ },
+ "juggler": {
+  "ru": "человек жонглирует кучей шаров — много задач",
+  "en": "a person juggling many balls"
+ },
+ "to-do-long": {
+  "ru": "очень длинный список дел — рутина",
+  "en": "a very long to-do list scroll"
+ },
+ "coffee-many": {
+  "ru": "много пустых чашек кофе — переработки",
+  "en": "many empty coffee cups"
+ },
+ "zzz-desk": {
+  "ru": "человек спит на столе — выгорел",
+  "en": "a person asleep on a desk with Zzz"
+ },
+ "beach-chill": {
+  "ru": "шезлонг под пальмой — свободное время",
+  "en": "a beach chair under a palm tree"
+ },
+ "team-three": {
+  "ru": "три человечка в команде — команда",
+  "en": "three small people standing together as a team"
+ },
+ "assistant-confused": {
+  "ru": "ассистент с кучей бумаг путается — ассистент не справляется",
+  "en": "a confused assistant holding a messy pile of papers"
+ },
+ "manager-phone": {
+  "ru": "менеджер с телефоном у уха — менеджер продаж",
+  "en": "a sales manager talking on a phone"
+ },
+ "clone": {
+  "ru": "два одинаковых человечка — клонировать себя",
+  "en": "two identical small people side by side"
+ },
+ "brain-gears": {
+  "ru": "голова с шестерёнками — думать, стратегия",
+  "en": "a head silhouette with gears inside"
+ },
+ "stress-cloud": {
+  "ru": "человек под грозовой тучей — стресс",
+  "en": "a person under a small storm cloud"
+ },
+ "happy-person": {
+  "ru": "радостный человек с поднятыми руками — успех",
+  "en": "a happy person cheering with arms up"
+ },
+ "facepalm": {
+  "ru": "человек фейспалм — ошибка",
+  "en": "a person doing a facepalm"
+ },
+ "thinking-person": {
+  "ru": "человек думает, рука у подбородка — размышление",
+  "en": "a person thinking with hand on chin"
+ },
+ "shrug": {
+  "ru": "человек пожимает плечами — не знаю",
+  "en": "a person shrugging"
+ },
+ "snail": {
+  "ru": "улитка — медленно",
+  "en": "a slow snail"
+ },
+ "cheetah": {
+  "ru": "гепард в прыжке — быстро",
+  "en": "a running cheetah"
+ },
+ "warning-sign": {
+  "ru": "жёлтый знак с восклицанием — внимание, ошибка",
+  "en": "a yellow warning triangle sign with exclamation mark"
+ },
+ "stop-sign": {
+  "ru": "знак стоп — остановись",
+  "en": "a red stop sign"
+ },
+ "check-big": {
+  "ru": "большая зелёная галочка — правильно",
+  "en": "a big green check mark"
+ },
+ "cross-big": {
+  "ru": "большой красный крестик — неправильно",
+  "en": "a big red cross mark"
+ },
+ "magnifier": {
+  "ru": "лупа — разобрать, найти",
+  "en": "a magnifying glass"
+ },
+ "lock": {
+  "ru": "замок — закрыто, доступ",
+  "en": "a padlock"
+ },
+ "anchor": {
+  "ru": "якорь — тянет вниз",
+  "en": "a heavy ship anchor"
+ },
+ "balloon": {
+  "ru": "воздушный шар — лёгкость",
+  "en": "a red balloon"
+ },
+ "iceberg": {
+  "ru": "айсберг — видна только верхушка",
+  "en": "an iceberg with a big hidden part under water"
+ },
+ "treasure-chest": {
+  "ru": "сундук с сокровищами — ценный бонус",
+  "en": "an open treasure chest with gold"
+ },
+ "bomb": {
+  "ru": "бомба с фитилём — опасность, взрыв",
+  "en": "a cartoon bomb with a lit fuse"
+ },
+ "trash-can": {
+  "ru": "мусорное ведро — выбросить, не работает",
+  "en": "a metal trash can"
+ },
+ "compass": {
+  "ru": "компас — направление",
+  "en": "a compass"
+ },
+ "mountain-flag": {
+  "ru": "гора с флагом на вершине — цель достигнута",
+  "en": "a mountain with a flag on the top"
+ }
+}

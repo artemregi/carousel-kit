@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+output/
+examples/demo/*.png
+examples/demo/*.html
+templates/pixel/raw/
+.DS_Store

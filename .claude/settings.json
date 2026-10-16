@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(.venv/bin/python make.py:*)",
+      "Bash(open output/:*)",
+      "Bash(open examples/:*)",
+      "Read",
+      "Edit(output/**)",
+      "Write(output/**)",
+      "Edit(brand.md)",
+      "Edit(config.json)",
+      "Edit(templates/pixel/library.json)"
+    ]
+  }
+}
